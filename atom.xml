@@ -3,11 +3,11 @@
   <title>ZCGR</title>
   
   <subtitle>zcgr</subtitle>
-  <link href="https://kevin-li.zcgr.xyz/atom.xml" rel="self"/>
+  <link href="https://www.zcgr.xyz/atom.xml" rel="self"/>
   
-  <link href="https://kevin-li.zcgr.xyz/"/>
+  <link href="https://www.zcgr.xyz/"/>
   <updated>2022-11-07T00:33:01.588Z</updated>
-  <id>https://kevin-li.zcgr.xyz/</id>
+  <id>https://www.zcgr.xyz/</id>
   
   <author>
     <name>kevin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Psychology-Test1</title>
-    <link href="https://kevin-li.zcgr.xyz/psychology-test1/"/>
-    <id>https://kevin-li.zcgr.xyz/psychology-test1/</id>
+    <link href="https://www.zcgr.xyz/psychology-test1/"/>
+    <id>https://www.zcgr.xyz/psychology-test1/</id>
     <published>2022-11-06T15:51:35.000Z</published>
     <updated>2022-11-07T00:33:01.588Z</updated>
     
@@ -30,15 +30,15 @@
     
     
     
-    <category term="psychology" scheme="https://kevin-li.zcgr.xyz/all-categories/psychology/"/>
+    <category term="psychology" scheme="https://www.zcgr.xyz/all-categories/psychology/"/>
     
     
   </entry>
   
   <entry>
     <title>Photography-Test1</title>
-    <link href="https://kevin-li.zcgr.xyz/photography-test1/"/>
-    <id>https://kevin-li.zcgr.xyz/photography-test1/</id>
+    <link href="https://www.zcgr.xyz/photography-test1/"/>
+    <id>https://www.zcgr.xyz/photography-test1/</id>
     <published>2022-11-06T15:51:29.000Z</published>
     <updated>2022-11-07T04:34:19.219Z</updated>
     
@@ -49,15 +49,15 @@
     
     
     
-    <category term="photography" scheme="https://kevin-li.zcgr.xyz/all-categories/photography/"/>
+    <category term="photography" scheme="https://www.zcgr.xyz/all-categories/photography/"/>
     
     
   </entry>
   
   <entry>
     <title>Technology-Test1</title>
-    <link href="https://kevin-li.zcgr.xyz/technology-test1/"/>
-    <id>https://kevin-li.zcgr.xyz/technology-test1/</id>
+    <link href="https://www.zcgr.xyz/technology-test1/"/>
+    <id>https://www.zcgr.xyz/technology-test1/</id>
     <published>2022-11-06T15:51:24.000Z</published>
     <updated>2022-11-07T00:41:59.899Z</updated>
     
@@ -68,15 +68,15 @@
     
     
     
-    <category term="technology" scheme="https://kevin-li.zcgr.xyz/all-categories/technology/"/>
+    <category term="technology" scheme="https://www.zcgr.xyz/all-categories/technology/"/>
     
     
   </entry>
   
   <entry>
     <title>Psychology-Test</title>
-    <link href="https://kevin-li.zcgr.xyz/psychology-test/"/>
-    <id>https://kevin-li.zcgr.xyz/psychology-test/</id>
+    <link href="https://www.zcgr.xyz/psychology-test/"/>
+    <id>https://www.zcgr.xyz/psychology-test/</id>
     <published>2022-11-06T15:49:18.000Z</published>
     <updated>2022-11-07T00:20:48.981Z</updated>
     
@@ -87,15 +87,15 @@
     
     
     
-    <category term="psychology" scheme="https://kevin-li.zcgr.xyz/all-categories/psychology/"/>
+    <category term="psychology" scheme="https://www.zcgr.xyz/all-categories/psychology/"/>
     
     
   </entry>
   
   <entry>
     <title>Photography-Test</title>
-    <link href="https://kevin-li.zcgr.xyz/photography-test/"/>
-    <id>https://kevin-li.zcgr.xyz/photography-test/</id>
+    <link href="https://www.zcgr.xyz/photography-test/"/>
+    <id>https://www.zcgr.xyz/photography-test/</id>
     <published>2022-11-06T15:49:03.000Z</published>
     <updated>2022-11-07T00:20:45.158Z</updated>
     
@@ -106,15 +106,15 @@
     
     
     
-    <category term="photography" scheme="https://kevin-li.zcgr.xyz/all-categories/photography/"/>
+    <category term="photography" scheme="https://www.zcgr.xyz/all-categories/photography/"/>
     
     
   </entry>
   
   <entry>
     <title>Technology-Test</title>
-    <link href="https://kevin-li.zcgr.xyz/technology-test/"/>
-    <id>https://kevin-li.zcgr.xyz/technology-test/</id>
+    <link href="https://www.zcgr.xyz/technology-test/"/>
+    <id>https://www.zcgr.xyz/technology-test/</id>
     <published>2022-11-06T15:48:46.000Z</published>
     <updated>2022-11-07T04:33:28.268Z</updated>
     
@@ -125,12 +125,12 @@
     
     
     
-    <category term="technology" scheme="https://kevin-li.zcgr.xyz/all-categories/technology/"/>
+    <category term="technology" scheme="https://www.zcgr.xyz/all-categories/technology/"/>
     
     
-    <category term="java" scheme="https://kevin-li.zcgr.xyz/all-tags/java/"/>
+    <category term="java" scheme="https://www.zcgr.xyz/all-tags/java/"/>
     
-    <category term="php" scheme="https://kevin-li.zcgr.xyz/all-tags/php/"/>
+    <category term="php" scheme="https://www.zcgr.xyz/all-tags/php/"/>
     
   </entry>
   
